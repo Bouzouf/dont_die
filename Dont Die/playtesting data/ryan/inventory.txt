@@ -1,0 +1,20 @@
+Ryan Had:
+
+Tools:
+    Fists (Default)
+    Makeshift Pickaxe
+
+Items:
+    Wood (9)
+    Pebbles (6)
+    Rock (4)
+    Rope (1)
+
+Survived 264 Seconds
+Survived 0 Nights
+Coords =  [908.6122833381523, -343.75862999877427]
+Camp coords =  [-4614, 1576]
+Distance to camp = 5846.770016815456
+In the cmp safe range? NO
+
+Extra Note: Was very far from camp; i can assume that means he didnt understand what the dot meant
